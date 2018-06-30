@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pressurealter</string>
+    <string name="starttext">Start!</string>
+    <string name="pressuretext">Pressure</string>
+    <string name="loctext">Altitude</string>
+    <string name="stoptext">Stop</string>
+</resources>
